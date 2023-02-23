@@ -1,6 +1,6 @@
 ---
 name: Change Request
-about: Create a report to help us improve
+about: Create a report to help improve
 title: ''
 labels: ''
 assignees: ''
@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 **Describe the error**
+Make sure you read and understand the Principle of Charity: (https://en.wikipedia.org/wiki/Principle_of_charity).
 Describe what line has an error or needs clarification. 
-Remember the [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 
 **Revision**
 What it should say instead.
