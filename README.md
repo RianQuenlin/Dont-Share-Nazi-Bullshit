@@ -52,6 +52,10 @@ You still shared the misinformation.
 
 You're not sharing historical media, you're sharing modern-day screed filled with hatred. Historians, curators, and teachers know how to display and discuss propaganda as a product of its time and context. You do not.
 
+>"I maintain a blacklist, I post proof for transparency purposes."
+
+I agree that maintaining a blacklist of extremists should not run on "Dude, trust me". At the same time, it's a list people aligned with Nazis can use to find their people. This is an unfortunate quality of such lists and cannot be fixed without sacrificing transparency or engaging in potential libel. This is the only excuse that I can forgive, but it's on thin ice.
+
 ## Nazi comics are absurd and exploitable for a reason.
 
 A single throwaway line from a TV show can become a meme. A comic that can be easily edited can also become a meme. Nazi comics are sometime very exploitable for meme purposes. Yes, you wiped off the watermark, but no amount of edits, censorship, or distortion will result in legibility and inability to reverse image search.
