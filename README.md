@@ -1,6 +1,6 @@
 # Don't Share Nazi Bullshit!
 
-This is simply a guide on *not* spreading extremist propaganda even for mockery. Though it focuses on not sharing Nazi bullshit, its principles can (and should) be applied to any and all extremist content regardless of what ideology it aligns with, be it social, political, or religious.
+This is simply a guide on *not* spreading extremist propaganda, even for mockery. Though it focuses on not sharing Nazi bullshit, its principles can (and should) be applied to any and all extremist content regardless of what ideology it aligns with, be it social, political, or religious.
 
 ## Don't post Nazi memes, comics, social media posts, or articles.
 
@@ -72,7 +72,7 @@ If you see someone post Nazi content, call them out on it and tell them to delet
 
 ## Still posting it? In that case, how do I know that you're not actually a Nazi in disguise?
 
-I don't, but I'm not taking chances.
+I don't, and I'm not taking chances.
 
 Your profile could be completely faked, your opinions could be falsified, your avatar could be AI generated. The Nazis utilized staggering amounts of propaganda to turn people against their neighbors. They were masters of deceit and manipulation, even during the Nuremberg Trials Goring had to be isolated because of his silver tongue influencing the guards and other prisoners.
 
