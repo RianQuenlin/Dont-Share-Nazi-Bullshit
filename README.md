@@ -2,7 +2,9 @@
 
 This is simply a guide on *not* spreading extremist propaganda, even for mockery. Though it focuses on not sharing Nazi bullshit, its principles can (and should) be applied to any and all extremist content regardless of what ideology it aligns with, be it social, political, or religious.
 
-## Don't post Nazi memes, comics, social media posts, or articles.
+## Don't share Nazi memes, comics, social media posts, or articles.
+
+That's literally it; "Don't share Nazi bullshit".
 
 How often do you see people posting comics by Stonetoss, screenshots of Nazi hot takes on Twitter, or Nazi memes and saying how horrible it is? Too often, I wager. By sharing extremist propaganda in any form, you are spreading their message and ideology for them. To avoid spreading Nazi bullshit, you simply have to NOT publicly spread it, this means...
 
@@ -10,7 +12,7 @@ How often do you see people posting comics by Stonetoss, screenshots of Nazi hot
 - Don't share it.
 - Don't screenshot it.
 - Don't save it.
-- Don't mention it.
+- Don't mention or allude to its existence.
 - Don't engage with it.
 - Don't engage with the source.
 - Don't join communities that do.
@@ -56,13 +58,17 @@ You're not sharing historical media, you're sharing modern-day screed filled wit
 
 I agree that maintaining a blacklist of extremists should not run on "Dude, trust me". At the same time, it's a list people aligned with Nazis can use to find their people. This is an unfortunate quality of such lists and cannot be fixed without sacrificing transparency or engaging in potential libel. This is the only excuse that I can forgive, but it's on thin ice.
 
+>"They're subhuman, so it's okay to attack them."
+
+Nazis aren't monsters, beasts, or demons; they are humans. We cannot distance ourselves from the fact that the greatest crime against humanity was planned out, organized, and carried by human beings who knew exactly what they were doing.
+
 ## Nazi comics are absurd and exploitable for a reason.
 
-A single throwaway line from a TV show can become a meme. A comic that can be easily edited can also become a meme. Nazi comics are sometime very exploitable for meme purposes. Yes, you wiped off the watermark, but no amount of edits, censorship, or distortion will result in legibility and inability to reverse image search.
+A single throwaway line from a TV show can become a meme. A comic that can be easily edited can also become a meme. Nazi comics are sometimes very exploitable for meme purposes. Yes, you wiped off the watermark, but no amount of edits, censorship, or distortion will result in both legibility and inability to reverse image search.
 
 Some communities are devoted to edits and mockery of Nazi bullshit. The end result of these communities is Nazi bullshit regularly hitting the popular feeds. Even if you were to block every single person even slightly to the right of Marx on any given site, it would barely put a dent in how often you see it.
 
-Nazis don't get angry at their comics being twisted into the opposite message, they celebrate it. By posting mocking edits of Nazi bullshit, you have still posted and advertised Nazi bullshit. By posting it, you fell right into their trap. They provoked the exact reaction they needed from you; to spread their message.
+Nazis don't get angry at their comics being twisted into the opposite message, they celebrate it because it's still exposure. By posting mocking edits of Nazi bullshit, you have still posted and advertised Nazi bullshit. By posting it, you fell right into their trap. They provoked the exact reaction they needed from you; to spread their message.
 
 ## By posting their propaganda, you're doing their job for them.
 
